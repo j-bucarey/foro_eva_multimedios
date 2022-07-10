@@ -43,7 +43,7 @@
     </style>
 
      <!-- jQuery -->
-    <script src="<?php echo base_url ?>plugins/jquery/jquery.min.js"></script>
+    <script src="<?php echo base_url ?>plugins/jquery/jquery.js"></script>
     <!-- jQuery UI 1.11.4 -->
     <script src="<?php echo base_url ?>plugins/jquery-ui/jquery-ui.min.js"></script>
     <!-- SweetAlert2 -->

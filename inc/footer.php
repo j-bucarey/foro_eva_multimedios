@@ -61,8 +61,7 @@
 <!-- Footer-->
 <footer class="py-5 bg-gradient-navy">
             <div class="container">
-              <p class="m-0 text-center text-white">Copyright &copy; <?php echo $_settings->info('short_name') ?> 2021</p>
-              <p class="m-0 text-center text-white">Desarrollador: <a href="j.bucarey.diaz@gmail.com">Jaime Bucarey</a></p>
+              
           </div>
         </footer>
 
@@ -119,6 +118,6 @@
         <div class="calendar-table"></div>
         <div class="calendar-time" style="display: none;"></div>
       </div>
-      <div class="drp-buttons"><span class="drp-selected"></span><button class="cancelBtn btn btn-sm btn-default" type="button">Cancel</button><button class="applyBtn btn btn-sm btn-primary" disabled="disabled" type="button">Apply</button> </div>
+      <div class="drp-buttons"><span class="drp-selected"></span><button class="cancelBtn btn btn-sm btn-default" type="button">Cancelar</button><button class="applyBtn btn btn-sm btn-primary" disabled="disabled" type="button">Aplicar</button> </div>
     </div>
-    <div class="jqvmap-label" style="display: none; left: 1093.83px; top: 394.361px;">Idaho</div>
+    <div class="jqvmap-label" style="display: none; left: 1093.83px; top: 394.361px;"></div>
